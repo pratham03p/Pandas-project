@@ -1,1 +1,1 @@
-# pandas-project
+This project demonstrates how to visualize data from a CSV file using Python's powerful data manipulation and visualization libraries: Pandas, Matplotlib, and Seaborn. The script includes seven different types of visualizations to help you gain insights into your data
